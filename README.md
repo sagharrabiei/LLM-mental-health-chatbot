@@ -82,8 +82,14 @@ Main components of the system:
 6. **Gradio Interface**
    - Provides a simple web interface for users.
 
+7. **Prompt Engineering**
+   - Uses structured prompts to guide the language model to behave as a compassionate psychologist.
+   - Injects conversation context so the model can respond appropriately.
+   - Includes clear instructions to generate empathetic and reflective responses.
+   - Helps produce supportive dialogue and structured psychological summaries.
 
 #### Disclaimer
 
 This application is intended for educational and demonstration purposes only.
+
 It is not designed to diagnose, treat, or replace professional mental health care.
