@@ -1,4 +1,4 @@
-# Gemini Mental Health Assistant
+# Mental Health Assessment Chatbot
 
 #### Video Demo:
 https://www.youtube.com/watch?v=2sE5iV2Ut8E
@@ -90,6 +90,4 @@ Main components of the system:
 
 #### Disclaimer
 
-This application is intended for educational and demonstration purposes only.
-
-It is not designed to diagnose, treat, or replace professional mental health care.
+This chatbot is not designed to diagnose, treat, or replace professional mental health care.
